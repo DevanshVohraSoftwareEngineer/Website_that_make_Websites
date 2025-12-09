@@ -16,3 +16,4 @@ function App() {
 }
 
 export default App;
+// Export parseXml for use in other parts of the application
